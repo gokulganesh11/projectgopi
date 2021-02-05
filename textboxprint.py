@@ -9,7 +9,7 @@ root=Tk()
 root.title("Add Item")
 
 canvas1 = Canvas(root, width = 800, height = 400) 
-canvas1['bg']= "light blue"
+canvas1['bg']= "light green"
 root.resizable(0,0)
 canvas1.pack()
 
